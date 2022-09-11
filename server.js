@@ -8,7 +8,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cors());
 
 const CONNECTION_URL =
-"mongodb+srv://Hoshen:LaBbJUrrmpzDKafG@cluster0.bjc7k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 
 mongoose.connect(
